@@ -5,7 +5,7 @@ import seaborn as sns
 
 @st.cache_data
 def load_data():
-    return pd.read_csv(r"https://github.com/jurus231/FinalPRJ-AnalisisData-Bangkit/blob/main/dashboard/join_data.csv")
+    return pd.read_csv(r"./join_data.csv")
 
 data = load_data()
 
