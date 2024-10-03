@@ -1,7 +1,6 @@
-pip install --upgrade pip
-streamlit==1.25.0
-pandas==2.2.0
-matplotlib==3.8.0
+streamlit==1.38.0
+pandas==2.2.2
+matplotlib==3.9.2
 seaborn==0.13.2
 numpy==1.26.4
-pillow==9.5.0
+scikit-learn==1.5.1
